@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmariani123
 - 👀 I’m interested in programming and biology
 - 🌱 I’m currently learning statistical/machine learning
-- 💞️ I’m looking to collaborate on computaitional biology and genomics projects
+- 💞️ I’m looking to collaborate on computational biology, genomics, and biostatistics projects.
 - 📫 How to reach me m.mariani123@gmail.com
 
 <!---
