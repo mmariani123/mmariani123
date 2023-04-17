@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmariani123
 - 👀 I’m interested in biology, human health, and the intersection of statistics, computer science, and biomedical science. 
 - 🌱 I’m currently brushing up on statistical/machine learning.
-- 💞️ I’m looking to collaborate on computational biology, genomics, and biostatistics (statistical modelling and statistical learning/machine learning) projects.
+- 💞️ I’m looking to collaborate on biostatistics (statistical modelling and statistical learning/machine learning particularly) projects.
 - 📫 How to reach me m.mariani123@gmail.com
 
 <!---
